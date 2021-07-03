@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoWats.Library", "AutoWats.Library\AutoWats.Library.csproj", "{190D3833-2D8C-4258-8009-48FA82BF6D79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoWats.API_Example", "AutoWats.API\AutoWats.API_Example.csproj", "{CCE0FC90-45D6-4699-BFC7-30F67DEF40D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190D3833-2D8C-4258-8009-48FA82BF6D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190D3833-2D8C-4258-8009-48FA82BF6D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190D3833-2D8C-4258-8009-48FA82BF6D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190D3833-2D8C-4258-8009-48FA82BF6D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE0FC90-45D6-4699-BFC7-30F67DEF40D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE0FC90-45D6-4699-BFC7-30F67DEF40D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE0FC90-45D6-4699-BFC7-30F67DEF40D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE0FC90-45D6-4699-BFC7-30F67DEF40D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5A5B7F-6367-4DF8-B99E-BDD7B6C0D6EB}
+	EndGlobalSection
+EndGlobal
